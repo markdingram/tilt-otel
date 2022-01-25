@@ -1,0 +1,9 @@
+{
+  "Extensions": [
+    {
+      "Name": "helm_resource",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2022-01-25T09:35:05.732159Z"
+    }
+  ]
+}
